@@ -112,22 +112,40 @@ This role-based approach ensures that each administrator can only access the fun
 
 ### About
 
+![About](screenshots/About.png)
+
 ### Destination
+
+![Destination](screenshots/Destinacija.png)
 
 ### Gallery
 
+![Gallery](screenshots/Galerija.png)
+
 ### Room Details
+
+![RoomDetails](screenshots/NewRezerviranje.png)
 
 ### My Reservation
 
+![MyReservation](screenshots/NewMojeRezervacije.png)
+
 ### Admin Panel - Reservations
+
+![AdminPanelReservations](screenshots/AdminPanel.png)
 
 ### Admin Panel - Edit Rooms
 
+![AdminPanelEditRoom](screenshots/EditRoom.png)
+
 ### Admin Panel - Add Room
+
+![AdminPanelAddRoom](screenshots/AddRoom.png)
 
 ### Admin Panel - Edit Destination Page
 
+![AdminPanelEditDestinationPage](screenshots/znamenitosti.png)
+
 ### Admin Panel - Occupancy Statistics
 
-
+![AdminPanelOccupancyStatistics](screenshots/OccupancyStatistics.png)
