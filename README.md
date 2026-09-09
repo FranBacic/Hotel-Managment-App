@@ -100,7 +100,7 @@ This role-based approach ensures that each administrator can only access the fun
 
 ### Homepage
 
-
+![Homepage](screenshots/landingScreen.png)
 
 ### Rooms
 
