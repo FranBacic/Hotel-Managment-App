@@ -104,9 +104,11 @@ This role-based approach ensures that each administrator can only access the fun
 
 ### Rooms
 
-
+![Rooms](screenshots/popisSoba.png)
 
 ### Room Reviews
+
+![RoomReviews](screenshots/Recenzije_sobe.png)
 
 ### About
 
